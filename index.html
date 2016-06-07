@@ -1,3 +1,6 @@
+---
+---
+
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
@@ -133,11 +136,9 @@
 							<div class="acctitle"><i class="acc-closed icon-ok-circle"></i><i class="acc-open icon-remove-circle"></i>Menu midi</div>
 							<div class="acc_content clearfix">
 								<ul>
-									<li>Choix 1 - Sandwich (ex. Quésadilla, pizza bagel, BLT, pita au thon).</li>
-									<li>Choix 2 - Pâte (ex. Penne au saumon, macaroni fromage bacon, lasagne cesar)</li>
-									<li>Choix 3 - Plat réconfortant (ex. ris de veau, mini casserole, quiche, crêpe jambon asperge)</li>
-									<li>Choix 4 - Omelette</li>
-									<li>Choix 5 - Plat végétarien (ex. Spaghetti cru, brie fondant aux pommes, gaspacho)</li>
+									{% for item in site.data.menu.midi %}
+										<li>{{ item }}</li>
+									{% endfor %}
 								</ul>
 							</div>
 
@@ -147,23 +148,16 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<ul>
-												<li>Club Sandwich</li>
-												<li>Steak Frite</li>
-												<li>Brochette de poulet</li>
-												<li>Nachos chili, poulet, saucisse, régulier</li>
-												<li>Gros hot dog</li>
-												<li>Pavé de saumon</li>
-												<li>Bagel de Saumon Fumée</li>
+												{% for item in site.data.menu.bistro.partie-1 %}
+													<li>{{ item }}</li>
+												{% endfor %}
 											</ul>
 										</div>
 										<div class="col-sm-6">
 											<ul>
-												<li>Salade César au poulet</li>
-												<li>Salade de saumon</li>
-												<li>Salade de framboises</li>
-												<li>Panini Poulet César</li>
-												<li>Panini Poulet mexicain</li>
-												<li>Panini Buritos</li>
+												{% for item in site.data.menu.bistro.partie-2 %}
+													<li>{{ item }}</li>
+												{% endfor %}
 											</ul>
 										</div>
 									</div>
@@ -176,21 +170,16 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<ul>
-												<li>1 œuf / 2 œufs</li>
-												<li>1 œuf / 2 œufs + viandes</li>
-												<li>2 œufs + 2 viandes</li>
-												<li>2 œufs + 2 viandes + 1 crêpes</li>
-												<li>Crêpes / gaufre / pain doré au sirop</li>
-												<li>Crêpes / gaufre / pain doré aux fruits</li>
+												{% for item in site.data.menu.dejeuner.partie-1 %}
+													<li>{{ item }}</li>
+												{% endfor %}
 											</ul>
 										</div>
 										<div class="col-sm-6">
 											<ul>
-												<li>Omelette oignons + viande + fromage</li>
-												<li>Omelette western</li>
-												<li>Omelette aux épinards</li>
-												<li>Assiette de yogourt + fruits + pain</li>
-												<li>Sandwich déjeuné</li>
+												{% for item in site.data.menu.dejeuner.partie-2 %}
+													<li>{{ item }}</li>
+												{% endfor %}
 											</ul>
 										</div>
 									</div>
