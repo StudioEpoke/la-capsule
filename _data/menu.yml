@@ -4,6 +4,7 @@ midi:
   - Choix 3 - Plat réconfortant (ex. ris de veau, mini casserole, quiche, crêpe jambon asperge)
   - Choix 4 - Omelette
   - Choix 5 - Plat végétarien (ex. Spaghetti cru, brie fondant aux pommes, gaspacho)
+  - Choix 6 - Omelette végé
 bistro:
   partie-1:
     - Club Sandwich
