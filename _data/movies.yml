@@ -1,27 +1,31 @@
 -
-  title: Le Mécanicien
-  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/eScKoGnjaUvGD2OkK3DImyzfVkt.jpg
-  description: Samedi 24 septembre. Version française.
--
-  title: Le Petit Prince
-  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/4os3ed0Iqgglb0zWoPIxgqia8Kd.jpg
-  description: Samedi et Dimanche le 17 et 18 septembre. Version française.
--
   title: Spécial vélo
   poster: /img/velo.jpg
   description: Mardi le 30 août. Soirée débute à 19h. VO
+-
+  title: Wreck-it Ralph
+  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/93FsllrXXWncp7BQYTdOU1XMRXo.jpg
+  description: Samedi et dimanche 3 et 4 septembre. dès 7hrs am. 
 -
   title: Compétition de Mario Kart
   poster: /img/wanted.jpg
   description: Compétition de Mario Kart sur la Wii mercredi le 31 août.
 -
+  title : Courts-métrages
+  poster: https://www.dropbox.com/s/2euyrmewo4b34k9/jeudi%201%20sept.jpg?dl=0
+  description : Jeudi 1 septembre dès 19hrs.
+-
+  title: Le Petit Prince
+  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/4os3ed0Iqgglb0zWoPIxgqia8Kd.jpg
+  description: Samedi et Dimanche le 17 et 18 septembre. Version française.
+-
   title: Green Room VO
   poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/6Z3FXNq3sCIHpB3k4U7xMs1VEzn.jpg
   description: Première projection samedi 3 septembre 19h.
 -
-  title: Wreck-it Ralph
-  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/93FsllrXXWncp7BQYTdOU1XMRXo.jpg
-  description: Samedi et dimanche 3 et 4 septembre. dès 7hrs am. 
+  title: Le Mécanicien
+  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/eScKoGnjaUvGD2OkK3DImyzfVkt.jpg
+  description: Samedi 24 septembre. Version française.
 -
   title: Nitro
   poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/hTs4Wz3TkhB0lUdIgOL7zByQkXU.jpg
