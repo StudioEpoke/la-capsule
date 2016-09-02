@@ -3,10 +3,6 @@
   poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/7OITEPiATQJRKkEqKFxDEcEnljH.jpg
   description: samedi et dimanche 3 et 4 septembre dès 7h am. Version française
 -
-  title : Courts-métrages
-  poster: https://www.dropbox.com/s/2euyrmewo4b34k9/jeudi%201%20sept.jpg?dl=1
-  description : Jeudi 1 septembre dès 19hrs.
--
   title: Nitro
   poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/hTs4Wz3TkhB0lUdIgOL7zByQkXU.jpg
   description: première projection vendredi le 2 septembre à 19h
@@ -22,6 +18,10 @@
   title: the Hunting Ground
   poster: https://image.tmdb.org/t/p/w185/5CGbo2obj0RmVENMfn8Lq8MhF4I.jpg
   description: Mercredi le 7 septembre. Version original anglaise avec s.titre anglais
+-
+  title: La classe de madame Lise
+  poster: http://www.kfilmsamerique.com/lib/images/affiche-film/la-classe-de-madame-lise.jpg
+  description: jeudi le 8 septembre dès 19h30
 -
   title: Le Petit Prince
   poster: https://image.tmdb.org/t/p/w185/5yT7zjWIrFi1mMS1t085RWXt0S.jpg
