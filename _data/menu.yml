@@ -1,9 +1,9 @@
-midi:
-  - Choix 1 - Sandwich (ex. Quésadilla, pizza bagel, BLT, pita au thon)
-  - Choix 2 - Pâte (ex. Penne au saumon, macaroni fromage bacon, lasagne cesar)
-  - Choix 3 - Plat réconfortant (ex. ris de veau, mini casserole, quiche, crêpe jambon asperge)
-  - Choix 4 - Omelette
-  - Choix 5 - Plat végétarien (ex. Spaghetti cru, brie fondant aux pommes, gaspacho)
+midi (14$):
+  - Choix 1 - Burger porc BBQ
+  - Choix 2 - Carbonara
+  - Choix 3 - Poulet farci suisse, épinard, champignon
+  - Choix 4 - Omelette au deux fromages
+  - Choix 5 - Salade chèvre et oeuf
 bistro:
   partie-1:
     - Club Sandwich
