@@ -6,32 +6,31 @@ midi:
   - Choix 5 - Salade chèvre et oeuf
 bistro:
   partie-1:
-    - Club Sandwich
-    - Steak Frite
+    - Soupe du jour
+    - Potato skin
+    - Rosette de saumon fumé
+    - Hot dog européen
     - Brochette de poulet
-    - Nachos chili, poulet, saucisse, régulier
-    - Gros hot dog
     - Pavé de saumon
     - Bagel de Saumon Fumé
+    - Steak et pomme de terre
   partie-2:
     - Salade César au poulet
     - Salade de saumon
     - Salade de framboises
-    - Panini Poulet César
+    - Panini Parisien
     - Panini Poulet mexicain
     - Panini Buritos
 dejeuner:
   partie-1:
-    - 1 œuf / 2 œufs
-    - 1 œuf / 2 œufs + viandes
-    - 2 œufs + 2 viandes
+    - traditionnel oeuf et viande
     - 2 œufs + 2 viandes + 1 crêpes
-    - Crêpes / gaufre / pain doré au sirop
-    - Crêpes / gaufre / pain doré aux fruits
+    - Crêpes / gaufre / pain doré au sirop d'érable ou fruits
+    - Sandwich déjeuné
   partie-2:
     - Omelette oignons + viande + fromage
     - Omelette western
     - Omelette aux épinards
     - Assiette de yogourt + fruits + pain
-    - Sandwich déjeuné
+    - Assiette pour enfant
 
