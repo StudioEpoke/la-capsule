@@ -1,24 +1,4 @@
 -
-  title: Le Mécanicien
-  poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/eScKoGnjaUvGD2OkK3DImyzfVkt.jpg
-  description: Samedi 24 septembre. Version française.
--
-  title: Snoopy et Charlie Brown
-  poster: https://www.dropbox.com/s/bpb659bbzugve8n/peanuts.jpg?dl=1
-  description: Dimanche le 25 septembre. 7hrs am. Gratuit
--
-  title: Ringu. V.O de The Ring
-  poster: https://images-na.ssl-images-amazon.com/images/I/41BKGOPls5L.jpg
-  description: Lundi 26 septembre. Gratuit. Découvrez l'original The Ring
--
-  title: Conférence Passe le message 27 septembre
-  poster: https://www.dropbox.com/s/ky87jjtur9and9z/21%20sept.png?dl=1
-  description: Mardi 27 septembre. Gratuit. 17hrs.
--
-  title: Wii Sport. 
-  poster: https://www.dropbox.com/s/t33kbljat4p7zzw/jeux%20vid%C3%A9o.jpg?dl=1
-  description: 19hrs. 2$ Débutant comme pro. 
--
   title: Ted talk
   poster: https://www.dropbox.com/s/mvakccse0q754qi/ted%20talk%20soir%C3%A9e.png?dl=1
   description: Jeudi 29 septembre. 2$ Dès 19hrs. Une soirée de partage.
@@ -30,3 +10,23 @@
   title: Bridget Jones
   poster: https://image.tmdb.org/t/p/w300_and_h450_bestv2/sF4siELLRWdvhR36u0q77WWGfDC.jpg
   description: Projection samedi le 17 septembre (anglais) et 30 septembre (français)  à 19h 2$
+-
+  title: I'm legend
+  poster:http://img.123movies.to/2015/09/19/poster/I_am_Legend_1.jpg
+  description: Samedi 1 octobre. 20hrs. 2$. Version originale anglophone
+-
+  title: Il pleut des hamburgers
+  poster: https://www.dropbox.com/s/758a5ihdp74bjpb/il%20pleut%20des%20hamburgers.jpg?dl=1
+  description: Dimanche 2 octobre. Version francophone. Dès 7hrs am. Gratuit
+-
+  title: La Boxe
+  poster:https://www.dropbox.com/s/f0epviffebk43xq/la%20boxe.jpg?dl=1
+  description: Mardi 4 octobre. 18hrs. 2$. Film de boxe. 
+-
+  title: Jeux Vidéos
+  poster:https://www.dropbox.com/s/t33kbljat4p7zzw/jeux%20vid%C3%A9o.jpg?dl=1
+  description: Tous les mercredis, on joue aux jeux vidéos. 2$
+-
+ title: Lucidité passagère
+ poster:http://img07.cdn.cinoche.com/images/60a6c398207f001b726dc81a5e4932e8.jpg
+ description: Jeudi 6 octobre. 19hrs30. 2$
