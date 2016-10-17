@@ -1,8 +1,4 @@
 -
-  title: Il pleut des hamburgers
-  poster: https://www.dropbox.com/s/758a5ihdp74bjpb/il%20pleut%20des%20hamburgers.jpg?dl=1
-  description: Dimanche 16 octobre. Version francophone. Dès 7hrs am. Gratuit
--
   title: Riki
   poster: https://www.dropbox.com/s/9ea6i09lcnqlmr0/riki.jpg?dl=1
   description: Lundi 17 octobre. 21hrs. 2$
@@ -16,7 +12,7 @@
  description: mardi 18 octobre. 19hrs30. 2$
 -
   title: Débat pour la présidentielle américaine
-  poster: https://www.dropbox.com/s/56qu32scqpj2fzt/D%C3%A9bat-pr%C3%A9sidentiel-am%C3%A9ricain.pdf?dl=1
+  poster: https://www.dropbox.com/s/dl0jjlpgc4znv9h/D%C3%A9bat-pr%C3%A9sidentiel-am%C3%A9ricain.jpg?dl=1
   description: mercredi 19 octobre
 -
   title: Rocky Horror Picture Show 2016
@@ -50,3 +46,7 @@
   title: Zombieland
   poster: http://www.sonypictures.com/movies/zombieland/assets/images/onesheet.jpg
   description: Vendredi 28 octobre. Version francophone. Dès 18hrs. 2$
+ -
+  title: Il pleut des hamburgers
+  poster: https://www.dropbox.com/s/758a5ihdp74bjpb/il%20pleut%20des%20hamburgers.jpg?dl=1
+  description: Dimanche 16 octobre. Version francophone. Dès 7hrs am. Gratuit
