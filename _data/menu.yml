@@ -1,9 +1,9 @@
 midi:
-  - Choix 1 - Burger porc BBQ
-  - Choix 2 - Carbonara
-  - Choix 3 - Poulet farci suisse, épinard, champignon
-  - Choix 4 - Omelette au deux fromages
-  - Choix 5 - Salade chèvre et oeuf
+  - Choix 1 - croque monsieur
+  - Choix 2 - Pâtes au pesto
+  - Choix 3 - Quesadilla au poulet
+  - Choix 4 - Omelette au bacon
+  - Choix 5 - Buritos chili végé
 bistro:
   partie-1:
     - Soupe du jour
