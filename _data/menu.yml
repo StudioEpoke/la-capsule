@@ -1,9 +1,9 @@
 midi:
-  - Choix 1 - croque monsieur
-  - Choix 2 - Pâtes au pesto
+  - Choix 1 - Panini Poulet Cesar
+  - Choix 2 - Pâtes aux fruits de mer gratinés
   - Choix 3 - Quesadilla au poulet
-  - Choix 4 - Omelette au bacon
-  - Choix 5 - Buritos chili végé
+  - Choix 4 - Omelette au jambon
+  - Choix 5 - Couscous aux pois chiches
 bistro:
   partie-1:
     - Soupe du jour
