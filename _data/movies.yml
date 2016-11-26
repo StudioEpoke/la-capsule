@@ -1,16 +1,4 @@
 -
-  title: The Fourth phase
-  poster: https://www.dropbox.com/s/rf01cwne26t94q3/Affiche%20The%20forth%20phase%20VF.jpg?dl=1
-  description: Jeudi 24 novembre. Film de sport de glisse. 2$ 19hrs30
--
-  title: Le cercle
-  poster: https://www.dropbox.com/s/3v22oxm47a0a60t/the%20ring.jpg?dl=1
-  description: Vendredi 25 novembre. 18hrs. VF. 2$
--
-  title: Zombieland
-  poster: https://www.dropbox.com/s/eizh26oxhyrscoi/zombieland.jpg?dl=1
-  description: Vendredi 25 novembre. 20hrs. VF. 2$
--
   title: LOTR déjeuner et rafale
   poster: https://www.dropbox.com/s/h3myeimcw40ivqj/festval%20LOTR.jpg?dl=1
   description: Samedi 26 novembre. Dès 10hrs. 3 films. version longue. 25$
@@ -19,9 +7,17 @@
   poster: https://www.dropbox.com/s/758a5ihdp74bjpb/il%20pleut%20des%20hamburgers.jpg?dl=1
   description: Dimanche 27 novembre. De 7hrs à 14hrs. Gratuit
 -
+  title: Barista
+  poster: http://www.avenuecalgary.com/images/cache/cache_9/cache_5/cache_1/unnamed-d7787159.jpeg?ver=1478067394&aspectratio=0.74892703862661
+  description: Dimanche 27 novembre à 13hrs. 5$. Détail sur faceboook.
+-
   title: walking dead
   poster: https://www.dropbox.com/s/2s3kryg1h1ktt07/the-walking-dead-season-7-rick.jpg?dl=1
   description: Dimanche 27 novembre. Saison 7 direct de AMC. Anglais avec sous-titre.
+-
+  title: Mortal Kombat
+  poster: https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2OTYyNDk2N15BMl5BanBnXkFtZTcwMjczNTcxMQ@@._V1_UY268_CR2,0,182,268_AL_.jpg
+  descrption: Lundi 28 novembre. Gratuit. Film à 20hrs. Début de la soirée à 19hrs.
 -
   title: Soirée Roy Dupuis
   poster: https://www.dropbox.com/s/b0g3l3dmajyimd2/Cecinestpasunpolar.jpg?dl=1
@@ -33,11 +29,15 @@
 -
   title: Conférence sur les forêts.
   poster: https://www.dropbox.com/s/efyi4zivuweei13/Fichier%202016-11-18%2018%2052%2012.jpeg?dl=1
-  description: Soirée de conférence sur la forêt parrainée par l'Association forestière du sud du Québec. Appelez-nous pour plus d'information.
+  description: Jeudi 1 décembre. Soirée de conférence sur la forêt parrainée par l'Association forestière du sud du Québec. Appelez-nous pour plus d'information.
 -
   title: Réservé
   poster: https://www.dropbox.com/s/lc86ge36wjcju2v/r%C3%A9servation%20noel.jpg?dl=1
   description: Vendredi 2 & samedi 3 décembre. Soirée privée. Réservation de noël. 
+-
+  title: Happy feet
+  poster: https://www.dropbox.com/s/purnt1x6xcol8o9/happy%20feet.jpg?dl=1
+  description: Dimanche 4 décembre. Gratuit. De 7hrs à 14hrs
 -
   title: walking dead
   poster: https://www.dropbox.com/s/2s3kryg1h1ktt07/the-walking-dead-season-7-rick.jpg?dl=1
