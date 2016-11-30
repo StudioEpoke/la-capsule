@@ -1,8 +1,4 @@
 -
-  title: Soirée Roy Dupuis
-  poster: https://www.dropbox.com/s/b0g3l3dmajyimd2/Cecinestpasunpolar.jpg?dl=1
-  description: Mardi 29 novembre. Programmation double. 2$+tx. Dès 19hrs. 
--
   title: Jeux vidéos
   poster: https://www.dropbox.com/s/t33kbljat4p7zzw/jeux%20vid%C3%A9o.jpg?dl=1
   description: Mercredi 30 novembre. Gratuit. Ouvert à tous. 19hrs30.
@@ -23,9 +19,17 @@
   poster: https://www.dropbox.com/s/2s3kryg1h1ktt07/the-walking-dead-season-7-rick.jpg?dl=1
   description: Dimanche 4 décembre. Saison 7 direct de AMC. Anglais avec sous-titre. 2$+tx
 -
-  title: Douteux 
-  poster: https://www.dropbox.com/s/7acdrocyn1fgidv/douteux.jpg?dl=1
-  description: Soirée absurde et humoristique avec films de série B et clips niaiseux. Dès 19hrs. Gratuit
+  title: Two Headed Shark
+  poster: https://www.dropbox.com/s/wnlu4o30oaf6xiy/two%20hea%20shark.jpg?dl=1
+  description: Lundi 5 décembre. Soirée absurde et humoristique avec films de série B. 19hrs30 Gratuit
+-
+  title: Piège de cristal
+  poster: https://www.dropbox.com/s/vypbq75px3gpw3e/die%20hard.jpg?dl=1
+  description: Mardi 6 décembre. 2$ +tx Version francophone. 19hrs30
+-
+  title: Mortal Kombat
+  poster: https://www.dropbox.com/s/u9btmcs4w1c0598/gaming%20dcembre%20%281%29.jpg?dl=1
+  description: Mercredi 7 décembre. 19hrs30 PS4. 2$ +tx
 -
   title: Kino
   poster: https://www.dropbox.com/s/3ejjceklxpx93ob/kino.jpg?dl=1
@@ -38,3 +42,43 @@
   title: walking dead
   poster: https://www.dropbox.com/s/2s3kryg1h1ktt07/the-walking-dead-season-7-rick.jpg?dl=1
   description: Dimanche 11 décembre. Saison 7 direct de AMC. Anglais avec sous-titre. Demi-finale 4$+tx
+-
+  title: Ghost in the shell
+  poster: https://www.dropbox.com/s/wykuudu848240yk/ghost%20in%20the%20shell.jpg?dl=1
+  description: Version de 1995. Lundi 12 décembre. 19hrs30. 2$+tx
+ -
+  title: courts-métrages des fêtes
+  poster: https://www.dropbox.com/s/ak3x92bmzcj9mqp/courts-mtrages%20des%20ftes.jpg?dl=1
+  description: Mardi 13 décembre. 19hrs30. 2$+tx
+-
+  title: Die Hard
+  poster: https://www.dropbox.com/s/vypbq75px3gpw3e/die%20hard.jpg?dl=1
+  description: Vendredi 16 décembre. 19hrs30. 2$+tx Version anglophone
+ -
+  title: Snoopy
+  poster: https://www.dropbox.com/s/bpb659bbzugve8n/peanuts.jpg?dl=1
+  description: Dimanche 18 décembre. 7hrs à 14hrs. Gratuit. 
+ -
+  title: Hulk Hogan
+  poster: https://www.dropbox.com/s/pmsm247skna6pgj/Hulk%20Hogan.jpg?dl=1
+  description: Lundi 19 décembre. 19hrs30. Gratuit. 
+ -
+  title: Courts-métrages des fêtes
+  poster: https://www.dropbox.com/s/ak3x92bmzcj9mqp/courts-mtrages%20des%20ftes.jpg?dl=1
+  description: Jeudi 22 décembre. 19hrs30. Gratuit
+ -
+  title: Journée familiale
+  poster: https://www.dropbox.com/s/h3ai8hrt7brat31/15271316_1322250984461605_1970059746_o.jpg?dl=1
+  description: Mardi 27 décembre. 9hrs à 21hrs. Gratuit et accessible à tous. 
+ -
+  title: Compétition de wii
+  poster: https://www.dropbox.com/s/u9btmcs4w1c0598/gaming%20dcembre%20%281%29.jpg?dl=1
+  description: Mercredi 28 décembre. Boxe, quille, tire à larc, le choix vous appartient. Gratuit. 19hrs30
+ -
+  title: Die Hard
+  poster: https://www.dropbox.com/s/vypbq75px3gpw3e/die%20hard.jpg?dl=1
+  description: Jeudi 29 décembre. 2$+tx. 19hrs30
+ -
+  title: Journée familiale
+  poster: https://www.dropbox.com/s/h3ai8hrt7brat31/15271316_1322250984461605_1970059746_o.jpg?dl=1
+  description: vendredi 30 décembre. 9hrs à 21hrs. Gratuit et accessible à tous. 
