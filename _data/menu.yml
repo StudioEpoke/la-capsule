@@ -1,9 +1,5 @@
 midi:
-  - Choix 1 - Burger de porc sauce bbq
-  - Choix 2 - Salade de pâtes au jambon
-  - Choix 3 - brochette de poulet thaï
-  - Choix 4 - Omelette au champignon
-  - Choix 5 - Couscous aux pois chiches
+  - À venir au retour des fêtes
 bistro:
   partie-1:
     - Soupe du jour
@@ -25,7 +21,7 @@ dejeuner:
   partie-1:
     - traditionnel oeuf et viande
     - 2 œufs + 2 viandes + 1 crêpes
-    - Crêpes / gaufre / pain doré au sirop d'érable ou fruits
+    - Crêpes / gaufre / pains dorés au sirop d'érable ou fruits
     - Sandwich déjeuné
   partie-2:
     - Omelette oignons + viande + fromage
