@@ -1,16 +1,4 @@
 -
-  title: Ratatouille
-  poster: https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg
-  description: Dimanche 19 février. 7h à 14h. Gratuit avec consommation.
--
-  title: Walking dead s07
-  poster: https://www.dropbox.com/s/nxwvrph1hrjgnml/walking%20dead.jpg?dl=1
-  description: Dimanche 19 février. 19hrs. 2$. V.O. S.T
--
-  title: Collégial
-  poster: https://www.dropbox.com/s/aqxnocp5jbxc8sx/sans%20info.jpg?dl=1
-  description: Lundi 20 février. Le prix collégial est réservé aux étudiants inscrits. Appelez-nous pour plus d'informations. 
--
   title: Attack of la Nina (film de ski)
   poster: https://images-na.ssl-images-amazon.com/images/I/51kJONsCR4L._SX200_QL80_.jpg
   description: Mardi 21 février. 2$. 19h30
@@ -38,7 +26,26 @@
   title: Cowboy Bebop le film en v.o s.t.f.r
   poster: http://fr.web.img2.acsta.net/medias/nmedia/18/35/11/54/affiche.jpg
   description: Mardi 28 février. 19h30. 2$. Anime japonais alliant amour pour le jazz, violence et humour.
-
+-
+  title: Guitar Hero
+  poster: https://www.dropbox.com/s/t33kbljat4p7zzw/jeux%20vid%C3%A9o.jpg?dl=1
+  description: Mercredi 1 mars. 19h30. 2$. Ouvert à tous.
+-
+  title: Conférence sur le pot
+  poster: https://www.dropbox.com/s/aqxnocp5jbxc8sx/sans%20info.jpg?dl=1
+  description: Jeudi 2 mars. Gratuit. 19h30
+-
+  title: Art & Beer
+  poster: https://www.dropbox.com/s/wjd4n0g1wg1ks2m/art%20%26%20Beer.jpg?dl=1
+  description: Vendredi 3 mars. Activité de réseautage orienté vers le domaine artistique.
+-
+  title: Rafale Harry Potter
+  poster: https://www.dropbox.com/s/95yhj0w8pnrzp4o/HP%20poster.jpg?dl=1
+  description: Samedi 4 mars. 10h. Harry potter 1 à 4. 25$. Forfait disponible.
+-
+  title: Le petit prince
+  poster: https://www.dropbox.com/s/yvd78lxaahmhagp/le%20petit%20prince.jpg?dl=1
+  description: Dimanche 5 mars. 7h à 14h. Gratuit avec consommation.
 -
   title: Walking dead s07
   poster: https://www.dropbox.com/s/nxwvrph1hrjgnml/walking%20dead.jpg?dl=1
