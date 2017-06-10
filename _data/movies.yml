@@ -1,12 +1,4 @@
 -
-  title: CinématoQuiz
-  poster: https://www.dropbox.com/s/yaljre30f2mze1d/cin%C3%A9matoquizz.jpg?dl=1
-  description: Lundi 5 juin. 19h30. Gratuit
--
-  title: Kino Estrie
-  poster: https://www.dropbox.com/s/3ejjceklxpx93ob/kino.jpg?dl=1
-  desription: Jeudi 8 juin. 19h30. Contribution volontaire
--
   title: 3 bières
   poster: https://www.dropbox.com/s/c3ph6fk9o9xfmvz/3%20BI%C3%88RES.jpg?dl=1
   description: Samedi 10 juin. 19h. 5$ remis entièrement à l'équipe de 3 bières. 
@@ -22,6 +14,10 @@
   title: Amnistie internationale 
   poster: https://www.dropbox.com/s/5pzup2iuo0deqnv/amnistie.jpg?dl=1
   description: Mercredi 14 juin. 19h. Contribution volontaire. Amnistie internationale Estrie vous invite au visionnement du récent film « À la poursuite de la paix». Le réalisateur Garry Beitel y sera pour animer une discussion et répondre aux questions à la suite de la projection.
+-
+  title: DIY La Fabrique
+  poster: https://www.dropbox.com/s/rfa2rdkxxw1hov8/DIY.jpg?dl=1
+  description: Vendredi 16 juin. 20h. Gratuit. 
 -
   title: Demain, un an après. Une invitation de Sherbrooke en transition
   poster: http://static.cinebel.be/img/movie/poster/full/1015498_fr_demain_1450366269564.jpg
@@ -39,7 +35,19 @@
   poster: https://www.dropbox.com/s/pedbfvi0ob978e6/awaye%20mon%20m%C3%A9o.jpg?dl=1
   description: Vendredi 23 juin. 17h à 22h. Gratuit avec consommation.
 -
+  title: La soirée du Jive
+  poster: https://www.dropbox.com/s/gr95xekekie28sr/jove.jpg?dl=1
+  description: Samedi 24 juin. 20h. 5$ Venez danser avec la gang d'Estrie Rockabilly. 
+-
+  title: Le Petit Prince
+  poster: https://www.dropbox.com/s/tfbomhlgtnqxh51/e6c63315a60b6d43eb3a14c62edeb38e.jpg?dl=1
+  description: Dimanche 25 juin. 7h à 14h en boucle. Gratuit avec consommation. 
+-
   title: CinématoQuiz
   poster: https://www.dropbox.com/s/yaljre30f2mze1d/cin%C3%A9matoquizz.jpg?dl=1
   description: Lundi 26 juin. 19h30. Gratuit
+-
+  title: Hot Doc
+  poster: https://www.dropbox.com/s/8rojavny9k4qfhc/HOT%20DOC%20%281%29.jpg?dl=1
+  description: Mardi 27 juin. 19h30. 2$. Sujet: Les Autochtones. 
   
